@@ -1,1 +1,128 @@
+THIS FILE SERVES AS AN UPDATE SECTION TO SEE PROGRESS OR TO SEE IF THE PROJECT IS GOING THROUGHLY
 
+Note: To see progress, kindly input time and date to see and monitor if the project is really progressing other than commit logs.
+       _________________________________
+       |  USE THIS PROGRESS TEMPLATE  |
+      -----------------------------------
+======================================================
+[LAST NAME] PROGRESS
+
+[Posted Date (MM/DD/YY) | Time (12:00 AM/PM)]
+
+- [Input what you did]
+
+Statement & Made By: [LAST NAME]
+
+(END)
+======================================================
+
+======================================================
+SILAO PROGRESS:
+
+(Posted Ocober 2, 2026 | 11:30 PM)
+
+- I added a basis for our Menu Interface and User Authentication using the past Hands-On Activities. This basis/reference will be modified as we progress.
+
+(Posted Ocober 3, 2026 | 1:05 AM)
+
+- I addded an Algorithm and Pseudocode to easily visualize and implement the code for the final project. 
+- I added a detailed Algorithm (e.g. Menu Interface, User Authentication, Chat Interface & Threads, Preparing and Validating Messages and Sending Messages) on what is needed to be code implemented.
+- Algorithm is subjected to be changed.
+- However, the Pseudocode is still in progress.
+- I made changes to the documentation file.
+
+Statement & Made By: Silao
+
+(END)
+======================================================
+
+ASTUDILLO PROGRESS
+
+[Posted Date (October 12, 2026) | Time (7:58 pm)]
+
+- Imported MainChatroom.py (Very Barebones at the moment, only includes the chat system itself, a sidebar for the users you can chat to (not implemented), and 300 Word limit)
+- Started Documentation of MainChatroom.py
+- Slightly Modified MenuInterface.py to connect MainChatroom.py upon successful log-in
+- Currently working on the Menu Graphics Design ( Attempting )
+
+Statement & Made By: Astudillo
+
+(END)
+======================================================
+
+======================================================
+BANDIGAN PROGRESS
+
+[Posted Date (October/10/26) | Time (1:00 AM)]
+
+- Started with the database 
+- Created tables that hold the information for users and messages
+- Created functions to create and retrieve users
+- Created functions to save messages into the database
+
+[Posted Date (October/17/26) | Time (2:00 AM)]
+
+- Connected Account Registration to the database
+- Connected Main Chat Room to the database
+- Connected Menu Interface to the database
+- Created funcction to retrieve messages and all users from the database
+
+Statement & Made By: BANDIGAN
+
+(END)
+======================================================
+
+======================================================
+MENSES PROGRESS
+
+[Posted Date (10/20/26) | Time (12:25 PM)]
+
+- Added style sheet to the menus with purple/blue/cyan color scheme
+- Added emoji menu feature to chat interface
+- Added avatar support to database
+
+Statement & Made By: MENSES, LARA
+
+(END)
+======================================================
+
+======================================================
+LARA PROGRESS
+
+[Posted Date (10/23/26) | Time (08:05 PM)]
+
+- Added tweaks for the text fields in the login and registration menus
+- Changed button dimensions in login and registration menus
+- Changed emoji button size in main chat menu
+- Added placeholder logo (.jpg format)
+- Added login shake animation (from Silao)
+
+Statement & Made By: LARA
+
+(END)
+======================================================
+
+======================================================
+LARA PROGRESS
+
+[Posted Date (10/24/26) | Time (09:57 AM)]
+
+- Added project logo and screenshots to the README and documentation
+
+Statement & Made By: LARA
+
+(END)
+======================================================
+
+======================================================
+SILAO PROGRESS
+
+[Posted Date (10/24/26) | Time (10:20 AM)]
+
+- Overhauled UI styling, color scheme
+- New name and logo
+
+Statement & Made By: LARA, SILAO
+
+(END)
+======================================================
