@@ -36,8 +36,6 @@ Statement & Made By: Silao
 (END)
 
 
-- Created tables that hold the information for users and messages
-- Created functions to create and retrieve users
 - Created functions to save messages into the database
 
 [Posted Date (October/17/26) | Time (2:00 AM)]
