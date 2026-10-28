@@ -11,4 +11,4 @@ A system where residents request barangay documents (clearance, residency, build
 
 [Code Implementation](https://github.com/Limpiocpe/CPE010_FinalProj_Team1/tree/Code-Implementation)
 
-[Update to Contributors]
+[Update to Contributors](https://github.com/Limpiocpe/CPE010_FinalProj_Team1/blob/6388cac9e56ec7e20498b929d74d3578bfc04d5f/Member's%20Contribution%20Status)
