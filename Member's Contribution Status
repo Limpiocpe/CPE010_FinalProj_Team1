@@ -36,10 +36,6 @@ Statement & Made By: Silao
 (END)
 
 
-- Created functions to save messages into the database
-
-[Posted Date (October/17/26) | Time (2:00 AM)]
-
 - Connected Account Registration to the database
 - Connected Main Chat Room to the database
 - Connected Menu Interface to the database
