@@ -5,4 +5,4 @@ Repository for the Final Project in CPE010 by Team 1 :)
 
 [Video Presentation](https://github.com/Limpiocpe/CPE010_FinalProj_Team1/tree/Project-Documentation)
 
-[Code Implementation]
+[Code Implementation](https://github.com/Limpiocpe/CPE010_FinalProj_Team1/tree/Code-Implementation)
