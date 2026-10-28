@@ -36,8 +36,6 @@ Statement & Made By: Silao
 (END)
 
 
-- Connected Account Registration to the database
-- Connected Main Chat Room to the database
 - Connected Menu Interface to the database
 - Created funcction to retrieve messages and all users from the database
 
