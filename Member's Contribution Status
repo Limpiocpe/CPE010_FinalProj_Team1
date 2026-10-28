@@ -36,9 +36,6 @@ Statement & Made By: Silao
 (END)
 
 
-
-- Added tweaks for the text fields in the login and registration menus
-- Changed button dimensions in login and registration menus
 - Changed emoji button size in main chat menu
 - Added placeholder logo (.jpg format)
 - Added login shake animation (from Silao)
