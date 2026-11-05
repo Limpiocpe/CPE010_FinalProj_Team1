@@ -1,6 +1,15 @@
 # CPE010_FinalProj_Team1
 Repository for the Final Project in CPE010 by Team 1 :)
 
+Members involved in this Final Project: 
+
+1. Antonio, Christine Mae
+2. Bungag, Marc Jhowell
+3. Limpio, Ramelissa Melith
+4. Macatangay, Justin Jake
+5. Mendoza, Allyson
+6. Silao, Johrel Louie
+
 # **Barangay Document Request**
 
 A system where residents request barangay documents (clearance, residency, building permit, business permit etc.). Replaces manual paper forms, long queues and handwritten logbooks.
